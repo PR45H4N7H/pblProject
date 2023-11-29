@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  .App {
+    text-align: center;
+  }
+
+  .cont
+{
+  margin-top: 3.2cm; /* Adjust the margin-top as needed */
+  padding: 20px; /* Add padding if necessary */
+  
+  background-color: transparent;
+}
+
+.RenderStyles
+{
+  margin-top: 3.6cm;
+}
